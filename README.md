@@ -3,7 +3,7 @@
 Computer Engineering student, learning to build things with code.
 
 ## What I'm doing now
--  Learning: {Python}
+-  Learning: C, Python
 -  Building: my first project (coming soon)
 -  Goal: get an internship in software development
 
