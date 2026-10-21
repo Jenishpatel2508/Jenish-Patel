@@ -12,4 +12,4 @@ Computer Engineering student, learning to build things with code.
 - Tools: Git, GitHub
 
 ## Contact
-- LinkedIn: {https://www.linkedin.com/in/jenish-patel-864043434/?isSelfProfile=true}
+- LinkedIn: (https://www.linkedin.com/in/jenish-patel-864043434/)
